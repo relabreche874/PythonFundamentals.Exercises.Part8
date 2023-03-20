@@ -1,0 +1,9 @@
+/Users/robert/Desktop/PythonProjects/PyFun8/test_file_reader.py
+/Users/robert/Desktop/PythonProjects/PyFun8/tree.py
+/Users/robert/Desktop/PythonProjects/PyFun8/file_reader.py
+/Users/robert/Desktop/PythonProjects/PyFun8/my_awesome_file.txt
+/Users/robert/Desktop/PythonProjects/PyFun8/README.md
+/Users/robert/Desktop/PythonProjects/PyFun8/.gitignore
+/Users/robert/Desktop/PythonProjects/PyFun8/.git
+/Users/robert/Desktop/PythonProjects/PyFun8/directory.txt
+/Users/robert/Desktop/PythonProjects/PyFun8/.idea
